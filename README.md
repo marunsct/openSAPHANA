@@ -1,0 +1,2 @@
+# openSAPHANA
+openSAP excersices 
